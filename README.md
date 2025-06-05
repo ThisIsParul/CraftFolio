@@ -18,13 +18,12 @@
 
 ## 🛠️ Tech Stack
 
-| Layer      | Technology       |
-|------------|------------------|
-| Frontend   | React.js         |
-| Styling    | Tailwind CSS     |
-| Animations | Framer Motion    |
-| Config     | Vite + TypeScript|
-| Deployment | Vercel / Netlify |
+| Layer      | Technology        |
+|------------|-------------------|
+| Frontend   | React.js          |
+| Styling    | Tailwind CSS      |
+| Animations | Framer Motion     |
+| Config     | Vite + JavaeScript|
 
 ---
 
@@ -42,64 +41,20 @@ npm install
 npm run dev
 ```
 
----
 
-## 🖼️ Screenshots
 
-> _Add your app screenshots or GIF demos here._
+
 
 ---
 
-## 🌍 Live Demo
 
-> _[Link to deployed CraftFolio app](https://your-live-demo-url.vercel.app)_  
-> *(Replace with your actual live link)*
 
----
 
-## 🧩 Folder Structure
-
-```
-CraftFolio/
-├── components/
-│   ├── ui/               # Reusable UI components
-│   └── layout/           # Layout elements
-├── pages/                # Next.js/React routes
-├── lib/                  # Utility functions and templates
-├── styles/               # Global and component styles
-├── public/               # Static assets
-├── .gitignore
-├── package.json
-├── README.md
-└── tailwind.config.js
-```
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome!
-
-1. Fork the project
-2. Create a feature branch (`git checkout -b feature-name`)
-3. Commit your changes (`git commit -m "Add feature"`)
-4. Push to the branch (`git push origin feature-name`)
-5. Open a Pull Request
-
----
-
-## 📄 License
-
-This project is licensed under the **MIT License**.  
-See the [LICENSE](LICENSE) file for more details.
-
----
 
 ## 👨‍💻 Author
 
-**Tushar Singh**  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-📧 check.tushar03@gmail.com
+**Parul**  
+📧 thisisparulsingh@gmail.com
 
 ---
 
